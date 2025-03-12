@@ -1,5 +1,16 @@
 # Plotly and Dash - Python (Datacamp session March 2025)
 
+<b>Notes:</b>
+
+Shaffers 4Cs:
+
+- Clear
+- Clean
+- Concise
+- Captivating
+
+See slides uploaded for session.
+
 <b>YouTube Video:</b>
 
 [YouTube Video - Building Dashboards with Plotly and Dash](https://www.youtube.com/watch?v=PVOxoNWjJEA)
@@ -11,6 +22,12 @@
 <b>Cheat Sheet:</b>
 
 [Plotly Express Cheat Sheet](https://www.datacamp.com/cheat-sheet/plotly-express-cheat-sheet)
+
+<b>Code for each chart</b>
+
+[Plotly Python Documentation & Code](https://plotly.com/python/)
+
+[Plotly GitHub](https://github.com/plotly/plotly.py)
 
 <b>Tutorials:</b>
 
