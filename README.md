@@ -99,3 +99,4 @@ Choose the hosting method based on your budget and requirements!
 ### Examples of Dashboards built in Plotly Community:
 - [Michelin Star Restaurants - Dash apps](https://community.plotly.com/t/autumn-app-challenge/87373/9)
 - [Data Visualization & Dashboards](https://plotly.com/examples/dashboards/)
+- [Plotly Figure Friday](https://community.plotly.com/t/announcing-plotly-weekly-data-viz-projects-figure-friday/84953)
