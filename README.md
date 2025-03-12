@@ -4,6 +4,10 @@
 
 [YouTube Video - Building Dashboards with Plotly and Dash](https://www.youtube.com/watch?v=PVOxoNWjJEA)
 
+<b>Code Editor</b>
+
+[Plotly code editor - wasmdash](https://wasmdash.vercel.app/)
+
 <b>Cheat Sheet:</b>
 
 [Plotly Express Cheat Sheet](https://www.datacamp.com/cheat-sheet/plotly-express-cheat-sheet)
